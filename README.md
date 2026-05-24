@@ -1,5 +1,5 @@
 # free-strategies
-bytekul free strategies
+free strategies
 
 ## ⚠️ LEGAL DISCLAIMER & RISK WARNING
 
